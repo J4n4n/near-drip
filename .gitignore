@@ -1,0 +1,8 @@
+node_modules/
+dist/
+build/
+.env
+.near-credentials/
+*.tsbuildinfo
+.DS_Store
+*.log

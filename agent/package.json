@@ -1,0 +1,26 @@
+{
+  "description": "Drip agent backend — 1Click quote loop, policy check, on-chain spend receipts. Node.js/TypeScript, NEAR testnet.",
+  "license": "MIT",
+  "name": "drip-agent",
+  "private": true,
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "demo": "tsx src/demo.ts",
+    "dev": "tsx src/server.ts",
+    "server": "tsx src/server.ts",
+    "start": "node build/server.js",
+    "setup-agent-key": "node scripts/setup-agent-key.mjs"
+  },
+  "type": "module",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^5.3.0",
+    "near-api-js": "^7.4.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

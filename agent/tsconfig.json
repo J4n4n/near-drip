@@ -1,0 +1,1 @@
+{"compilerOptions":{"declaration":true,"esModuleInterop":true,"forceConsistentCasingInFileNames":true,"lib":["es2022"],"module":"NodeNext","moduleResolution":"NodeNext","outDir":"build","resolveJsonModule":true,"rootDir":"src","skipLibCheck":true,"strict":true,"target":"es2022"},"exclude":["node_modules","build"],"include":["src/**/*"]}
