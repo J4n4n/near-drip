@@ -126,11 +126,11 @@ contract, agent backend, dashboard — is new, written since Oct 19, 2026
 (hackathon announcement). The swap.io video and this prototype are independent
 projects. No code in this repo was written before the hackathon window.
 
-## Submission (DRAFT — not submitted)
+## Submission (SUBMITTED)
 
-See `SUBMISSION.md`. Payout address (provided by the human):
-**boykisser.near**. Nothing here is submitted, posted, or made public without
-the human confirming the exact payload first.
+Submitted 2026-11-10 ~00:24 Tehran via nearhackathon.com — "SUBMISSION RECEIVED".
+See `SUBMISSION.md` for the submitted payload. Payout address (provided by the human):
+**boykisser.near**. Judging Nov 16–18, 2026; keep repo + demo live until Nov 18 (ideally Nov 25).
 
 ## Verified state (2026-11-07 ~22:00 UTC — all verified live by the coordinator)
 
